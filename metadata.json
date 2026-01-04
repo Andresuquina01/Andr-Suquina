@@ -1,0 +1,8 @@
+{
+  "name": "Designer US Pro",
+  "description": "Plataforma global de elite para criadores visuais. Criado e fornecido por Suquina Designer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
